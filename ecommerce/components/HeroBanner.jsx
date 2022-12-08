@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const heroBanner = () => {
+const HeroBanner = () => {
   return (
-    <div>heroBanner</div>
+    <div>HeroBanner</div>
   )
 }
+
+export default HeroBanner
