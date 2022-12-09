@@ -1,8 +1,8 @@
 import React from 'react'
 
-import {HeroBanner} from '../components/HeroBanner.jsx';
-import {Product} from '../components/Product.jsx';
-import {FooterBanner} from '../components/FooterBanner';
+import {HeroBanner} from "../components/HeroBanner";
+import {Product} from "../components/Product";
+import {FooterBanner} from "../components/FooterBanner";
 
 export const Home = () => {
   return (
