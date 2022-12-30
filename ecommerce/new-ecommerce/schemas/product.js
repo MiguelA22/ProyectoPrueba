@@ -62,6 +62,11 @@ export default {
         type: 'string',
       },
       { 
+        name: 'link',
+        title: 'Link',
+        type: 'string',
+      },
+      { 
         name: 'formaPago',
         title: 'Forma de pago',
         type: 'string',
